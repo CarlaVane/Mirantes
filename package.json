@@ -1,0 +1,22 @@
+{
+  "name": "mirantes",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/EX.js"
+  },
+  "keywords": [],
+  "author": "dd",
+  "license": "ISC",
+  "description": "Todo aprendizado do estágio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlaVane/Mirantes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarlaVane/Mirantes/issues"
+  },
+  "homepage": "https://github.com/CarlaVane/Mirantes#readme"
+}
